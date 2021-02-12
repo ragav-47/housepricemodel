@@ -249,10 +249,10 @@ def HouseModelPrediction(request):
 
 
 ## OUTPUT:
-![output](./static/img/HouseModelPredection.png)
-![output](./static/img/HouseModelTraining.png)
-![output](./static/img/HouseModelhmp.png)
-![output](./static/img/HouseModelhmt.png)
+![output](./static/img/output1.png)
+![output](./static/img/output2.png)
+![output](./static/img/hmp.png)
+![output](./static/img/hmt.png)
 
 
 ## RESULT:
